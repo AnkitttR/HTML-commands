@@ -4,7 +4,7 @@
 
 <a href="test/hello">Hello </a>   : For going to page test/hello, with the Hello link.
 
-<a href="${pageContext.request.contextPath}/test/hello">Hello</a> : 
+<a href="${pageContext.request.contextPath}/test/hello">Hello</a> : Complete path for any page.
 
 <h1> My First Heading </h1>       : For heading type 1
 
