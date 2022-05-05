@@ -1,5 +1,9 @@
-<hr>                            : For horizontal line below
+<hr>                              : For horizontal line below
 
-<h3>Spring REST Demo</h3>       : For Bold
+<h3> Spring REST Demo </h3>       : For Bold
 
-<a href="test/hello">Hello</a>  : For going to page test/hello, with the Hello link.
+<a href="test/hello">Hello </a>   : For going to page test/hello, with the Hello link.
+
+<h1> My First Heading </h1>       : For heading type 1
+
+<p> My first paragraph. </p>      : For paragraph writing
