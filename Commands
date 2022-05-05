@@ -1,3 +1,5 @@
-<hr>                       : For horizontal line below
+<hr>                            : For horizontal line below
 
-<h3>Spring REST Demo</h3>  : For Bold
+<h3>Spring REST Demo</h3>       : For Bold
+
+<a href="test/hello">Hello</a>  : For going to page test/hello, with the Hello link.
