@@ -7,3 +7,12 @@
 <h1> My First Heading </h1>       : For heading type 1
 
 <p> My first paragraph. </p>      : For paragraph writing
+
+************ Heading sizes **************
+
+<h1>This is heading 1</h1>        : Largest
+<h2>This is heading 2</h2>        : Smaller
+<h3>This is heading 3</h3>        : Smaller
+<h4>This is heading 4</h4>        : Smaller
+<h5>This is heading 5</h5>        : Smaller
+<h6>This is heading 6</h6>        : Smallest
