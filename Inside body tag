@@ -1,5 +1,7 @@
 <hr>                              : For horizontal line below
 
+<br><br>                          : Line Break
+
 <h3> Spring REST Demo </h3>       : For Bold
 
 <a href="test/hello">Hello </a>   : For going to page test/hello, with the Hello link.
