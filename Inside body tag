@@ -24,3 +24,7 @@
 ************ Image attachment ************
 
 <img src="w3schools.jpg" alt="W3Schools.com" width="104" height="140">
+
+*********************************CSS class in body tag*************************************
+
+<p th:text="'Time on the server is' + ${theDate}" class="funny"/>
